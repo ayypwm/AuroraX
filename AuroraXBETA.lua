@@ -1441,3 +1441,4 @@ local SettingsTab = Window:Tab({
     Icon = "cog", -- Biểu tượng bánh răng
 })
 -- Thêm các Section và Element của Tab Settings tại đây
+
